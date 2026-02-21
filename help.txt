@@ -1,0 +1,13 @@
+; ==============================================================================
+; KeyPress-OSD-kaiu
+; Author: https://github.com/AndreyKaiu
+; ==============================================================================
+; Script for showing pressed hotkeys. 
+; Press Ctrl+Esc to end the script.
+; Shift+Esc will temporarily hide the window.
+; The window can be moved with the mouse to the desired area of ​​the screen.
+; Right-clicking will open the Quick Settings window.
+; −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+; You can configure the program using the "settings.ini" file.
+; Can be launched using a program shortcut.
+; In the first parameter of the shortcut, you can specify the name of another configuration file.
